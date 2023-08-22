@@ -1,6 +1,6 @@
 BioMetric login
 
-A simple app with BioMetric aptions
+A simple login app with BioMetric aptions
 
 
 ## Related
